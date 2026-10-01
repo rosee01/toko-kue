@@ -172,6 +172,7 @@ erDiagram
 ## Kredit
 
 - Template dashboard: [AdminLTE](https://adminlte.io) (lisensi MIT, salinannya ada di `public/assets/ADMINLTE-LICENSE`).
+- Gambar hero di `public/images/login-hero.jpg` dibuat dengan ChatGPT/OpenAI; penggunaan output mengikuti [Ketentuan Penggunaan OpenAI](https://openai.com/policies/terms-of-use/) dan hukum yang berlaku.
 - Dibangun dengan [Laravel](https://laravel.com).
 
 ## Lisensi
