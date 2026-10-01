@@ -31,7 +31,7 @@ Aplikasi toko kue berbasis **Laravel 12** yang dibuat sebagai proyek portofolio.
 Prasyarat: PHP 8.2+ (ekstensi `gd`, `mbstring`, `pdo_sqlite`), Composer.
 
 ```powershell
-git clone https://github.com/USERNAME/toko-kue.git
+git clone https://github.com/rosee01/toko-kue.git
 cd toko-kue
 composer install
 composer setup
